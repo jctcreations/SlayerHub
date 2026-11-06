@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slayer Patrol</string>
+    <string name="patrol_tab">Patrol</string>
+    <string name="library_tab">Library</string>
+    <string name="status_tab">Status</string>
+    <string name="trivia_tab">Trivia</string>
+    <string name="weapons_tab">Arsenal</string>
+    <string name="bestiary_tab">Bestiary</string>
+</resources>

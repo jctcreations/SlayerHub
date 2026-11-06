@@ -1,0 +1,6 @@
+{
+  "name": "Slayer Patrol",
+  "description": "Patrol Sunnydale at night, slay vampires, battle Hellmouth demons, and research occult weaknesses with the Scooby Gang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
